@@ -1,0 +1,16 @@
+@media all and (min-width: 1150px) {
+	.trsprnt:hover {
+		background-color: #00897b;
+		border-color: transparent;
+	}
+
+	.green:hover {
+		border: 2px solid;
+		background-color: transparent;
+	}
+
+	.nav-link:hover {
+		background-color: #111;
+		color: #fff;
+	}
+}
